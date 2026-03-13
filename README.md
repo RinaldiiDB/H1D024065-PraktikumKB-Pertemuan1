@@ -1,8 +1,8 @@
 # Pertemuan 1 Praktikum KB - Game Tebak Angka
 
-## Mekanisme sederhanaya yaitu pemain diminta menebak angka rahasia yang dihasilkan acak oleh program dengan kesempatan tertentu.
+### Mekanisme sederhanaya yaitu pemain diminta menebak angka rahasia yang dihasilkan acak oleh program dengan kesempatan tertentu.
 
-## Konsep yang Digunakan
+### Konsep yang Digunakan
 ### 1. Struktur Kontrol
 Program menggunakanstruktur kontrol yaitu:
 while → untuk mengulang permainan selama kesempatan masih ada
